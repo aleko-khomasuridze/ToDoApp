@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|c:\\users\\aleko\\source\\repos\\todoapp\\todo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|c:\\users\\aleko\\source\\repos\\todoapp\\todo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|c:\\users\\aleko\\source\\repos\\todoapp\\todo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|c:\\users\\aleko\\source\\repos\\todoapp\\todo\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|c:\\users\\aleko\\source\\repos\\todoapp\\todo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|c:\\users\\aleko\\source\\repos\\todoapp\\todo\\models\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53720C84-CF3B-47C2-A8BA-8BBECB799004}|ToDo\\ToDoDemo.csproj|solutionrelative:todo\\models\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ToDo\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Models\\Category.cs",
+              "RelativeToolTip": "ToDo\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:11:59.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "ToDo\\Models\\ToDo.cs",
+              "ToolTip": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Models\\ToDo.cs",
+              "RelativeToolTip": "ToDo\\Models\\ToDo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:02:19.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "ToDo\\Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "ToDo\\Views\\Home\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T17:53:34.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ToDo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ToDo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:01:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ToDo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T15:58:21.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Models\\Filters.cs",
+              "RelativeDocumentMoniker": "ToDo\\Models\\Filters.cs",
+              "ToolTip": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\Models\\Filters.cs",
+              "RelativeToolTip": "ToDo\\Models\\Filters.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:04:59.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
