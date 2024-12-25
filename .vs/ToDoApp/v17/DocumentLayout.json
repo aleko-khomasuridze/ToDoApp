@@ -70,8 +70,7 @@
               "RelativeToolTip": "ToDo\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-15T16:22:21.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T16:22:21.088Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "ToDo\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-15T11:59:13.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T11:59:13.589Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "ToDo\\Models\\Status.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T04:33:21.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T04:33:21.187Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "RelativeToolTip": "ToDo\\Models\\ToDo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:02:19.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T18:02:19.095Z"
             },
             {
               "$type": "Document",
@@ -146,8 +142,7 @@
               "RelativeToolTip": "ToDo\\Views\\Home\\Add.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T17:53:34.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T17:53:34.118Z"
             },
             {
               "$type": "Document",
@@ -172,8 +167,7 @@
               "RelativeToolTip": "ToDo\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T15:58:21.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T15:58:21.808Z"
             },
             {
               "$type": "Document",
@@ -185,8 +179,7 @@
               "RelativeToolTip": "ToDo\\Models\\ToDoContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T13:31:51.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T13:31:51.363Z"
             },
             {
               "$type": "Document",
@@ -210,8 +203,7 @@
               "RelativeToolTip": "ToDo\\Models\\Filters.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T15:04:59.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T15:04:59.058Z"
             }
           ]
         }
