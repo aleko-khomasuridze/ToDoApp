@@ -17,6 +17,9 @@
 
   <ItemGroup>
     <Folder Include="Migrations\" />
+    <Folder Include="wwwroot\assets\icons\" />
+    <Folder Include="wwwroot\assets\images\" />
+    <Folder Include="wwwroot\assets\fonts\" />
   </ItemGroup>
 
 </Project>

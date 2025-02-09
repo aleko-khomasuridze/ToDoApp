@@ -4,20 +4,27 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>MyTasks</title>
+    <link rel="icon" type="image/x-icon" href="~/faviconn.ico"/>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ToDo.styles.css" asp-append-version="true" />
 </head>
 <body>
-    
-    <div class="container">
-        <header class="bg-primary text-white text-center">
-            <h1 class="m-3 p-3">My Tasks</h1>
+
+        <header>
+            <nav class="navbar bg-primary">
+                <div class="container">
+                    <a class="navbar-brand text-white fw-bold">Todo List</a>
+                    <form class="d-flex" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-light" type="submit">Search</button>
+                    </form>
+                </div>
+            </nav>
         </header>
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
-    </div>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

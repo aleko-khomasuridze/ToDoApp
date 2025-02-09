@@ -45,7 +45,6 @@ C:\Users\aleko\source\repos\ToDoApp\ToDo\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Users\aleko\source\repos\ToDoApp\ToDo\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\aleko\source\repos\ToDoApp\ToDo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\aleko\source\repos\ToDoApp\ToDo\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\aleko\source\repos\ToDoApp\ToDo\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\aleko\source\repos\ToDoApp\ToDo\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\aleko\source\repos\ToDoApp\ToDo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\aleko\source\repos\ToDoApp\ToDo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -136,3 +135,7 @@ C:\Users\aleko\source\repos\ToDoApp\ToDo\obj\Debug\net8.0\refint\ToDoDemo.dll
 C:\Users\aleko\source\repos\ToDoApp\ToDo\obj\Debug\net8.0\ToDoDemo.pdb
 C:\Users\aleko\source\repos\ToDoApp\ToDo\obj\Debug\net8.0\ToDoDemo.genruntimeconfig.cache
 C:\Users\aleko\source\repos\ToDoApp\ToDo\obj\Debug\net8.0\ref\ToDoDemo.dll
+C:\Users\aleko\source\repos\ToDoApp\ToDo\bin\Debug\net8.0\ToDoDemo.staticwebassets.endpoints.json
+C:\Users\aleko\source\repos\ToDoApp\ToDo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\aleko\source\repos\ToDoApp\ToDo\obj\Debug\net8.0\staticwebassets\msbuild.ToDoDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\aleko\source\repos\ToDoApp\ToDo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

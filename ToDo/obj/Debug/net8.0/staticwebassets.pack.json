@@ -2,15 +2,15 @@
   "Files": [
     {
       "Id": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ToDoDemo.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ToDoDemo.bundle.scp.css"
+      "PackagePath": "staticwebassets\\ToDoDemo.icj05ydjh6.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\wwwroot\\faviconn.ico",
+      "PackagePath": "staticwebassets\\faviconn.ico"
     },
     {
       "Id": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\wwwroot\\js\\site.js",
@@ -243,6 +243,10 @@
     {
       "Id": "C:\\Users\\aleko\\source\\repos\\ToDoApp\\ToDo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ToDoDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ToDoDemo.Microsoft.AspNetCore.StaticWebAssets.props",
